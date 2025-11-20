@@ -1,18 +1,4 @@
 package.txt
+ignorefile.txt
 
-*ignore all exe  files
- *.exe
- ignore all exe file inside the bin
- bin/*.exe
 
- ignore all files begining with temp
- temp*
-
- ignore all files inside the folder with build
- build/
-
- any directory named config
- **/configs
-
- anyfile file named result.exe inside the output folder
- output/**/result.exe
